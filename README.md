@@ -27,8 +27,8 @@
 <h2 align="left">&#x1f4f8; &#x0050;&#x0072;&#x0065;&#x0076;&#x0069;&#x0065;&#x0077;&#x20;&#x0028;&#x0053;&#x0063;&#x0072;&#x0065;&#x0065;&#x006e;&#x0073;&#x0068;&#x006f;&#x0074;&#x0073;&#x0029;</h2>
 
 <div align="center">
-  <img src="https://files.catbox.moe/oatv9s.jpg" width="400" style="border-radius: 10px; border: 2px solid #FF0000;"> 
-  <img src="https://files.catbox.moe/z4m7s8.jpg" width="400" style="border-radius: 10px; border: 2px solid #FF0000;">
+  <img src="https://files.catbox.moe/naem8a.jpg" width="400" style="border-radius: 10px; border: 2px solid #FF0000; margin: 10px;"> 
+  <img src="https://files.catbox.moe/la596z.jpg" width="400" style="border-radius: 10px; border: 2px solid #FF0000; margin: 10px;">
 </div>
 
 ---
